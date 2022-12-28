@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XHUPIA9NUMTKd2DFnPqMdZcM7ABgfSmBCyhNcz8bk00=",
+  "Source": "Servicio_REST",
+  "BasePath": "_content/Servicio_REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
